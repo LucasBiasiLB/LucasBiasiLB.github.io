@@ -90,7 +90,7 @@ nem o _italico_
     e para links nas imagens usa a mesma formatação, só que com outra [] para a imagem e outro () para o hiperlink
   
     "[  ![titulo da imagem](url da imagem)](url do hiperlink)"
-  
+
       __aqui sem o space
 
 [![emoji](https://i.pinimg.com/474x/ab/06/87/ab06878f1966bf54a0f606964cab5fd2.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
