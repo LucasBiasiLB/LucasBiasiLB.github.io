@@ -92,4 +92,4 @@ nem o _italico_
     "[![titulo da imagem](url da imagem)](url do hiperlink)"
 
 
-[![emoji](https://github.com/user-attachments/assets/1449d9fc-be00-4b20-a0ff-db1b7beca558)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![emoji](https://i.pinimg.com/474x/ab/06/87/ab06878f1966bf54a0f606964cab5fd2.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
