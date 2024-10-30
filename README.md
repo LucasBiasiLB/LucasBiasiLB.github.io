@@ -93,3 +93,36 @@ nem o _italico_
   
 
 [![emoji](https://i.pinimg.com/474x/ab/06/87/ab06878f1966bf54a0f606964cab5fd2.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+- Escolha os títulos das colunas e use | para delimitar as colunas. Depois, utilize hífen - na segunda linha para indicar que acima        estão os títulos das colunas, usando novamente o | para delimitar colunas. Veja um exemplo abaixo:
+
+Teste   | Exemplo
+------- | ------
+Teste 1 | Exemplo 1
+Teste 2 | Exemplo 2
+Teste 3 | Exemplo 3
+Teste 4 | Exemplo 4
+
+
+- Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize dois pontos : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
+
+Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão)
+Alinhado a direita: usar : no lado direito
+Centralizado: usar : dos dois lados
+Exemplo:
+
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Exemplo | Exemplo | Exemplo
+
+- O MarkDown também permite colocar alguns emojis em seus textos, não abuse deles para não parecer um circo de diversões, só em alguns casos bem específicos.
+
+:nome_do_emoji:
+
+Alguns exemplos:
+
+:smile: :fire: :file_folder: :space_invader: :computer:
+😄 🔥 📁 👾 💻
+
+Para conferir uma lista com os emojis e suas sintaxes, clique aqui: EMOJIS
