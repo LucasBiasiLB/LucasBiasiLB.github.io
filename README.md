@@ -125,4 +125,4 @@ Alguns exemplos:
 :smile: :fire: :file_folder: :space_invader: :computer:
 😄 🔥 📁 👾 💻
 
-Para conferir uma lista com os emojis e suas sintaxes, clique aqui: EMOJIS
+Para conferir uma lista com os emojis e suas sintaxes, clique aqui: [EMOJIS](https://gist.github.com/rxaviers/7360908)
